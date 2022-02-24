@@ -12,7 +12,7 @@ preprocessing-seq_extractor.py
 preprocessing-data.py
 
 
-3. Aligment was conudnting with MAFFT
+3. Aligment was conducted using MAFFT
 
 mafft_alig.py
 
